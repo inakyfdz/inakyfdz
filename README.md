@@ -48,12 +48,10 @@
 
 ### <p align="center"><b>// PROYECTOS</b></p>
 <p align="center">
-  <a href="https://github.com/inakyfdz/NOMBRE_REPO_1">
+  <a href="[https://github.com/inakyfdz/NOMBRE_REPO_1](https://github.com/inakyfdz/ChronicleForge)">
     <img src="https://github-readme-stats-extended.vercel.app/api/pin/?username=inakyfdz&repo=NOMBRE_REPO_1&bg_color=0A0A0A&title_color=E8202C&text_color=F2F2F2&icon_color=E8202C&border_color=E8202C" alt="Proyecto 1">
   </a>
-  <a href="https://github.com/inakyfdz/NOMBRE_REPO_2">
-    <img src="https://github-readme-stats-extended.vercel.app/api/pin/?username=inakyfdz&repo=NOMBRE_REPO_2&bg_color=0A0A0A&title_color=E8202C&text_color=F2F2F2&icon_color=E8202C&border_color=E8202C" alt="Proyecto 2">
-  </a>
+  
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
