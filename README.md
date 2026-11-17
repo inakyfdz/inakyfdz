@@ -43,15 +43,15 @@
   <img src="https://img.shields.io/badge/Git-E8202C?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-E8202C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
-<!--
+
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
-<!--
+
 ### <p align="center"><b>// PROYECTOS</b></p>
 <p align="center">
   <a href="[https://github.com/inakyfdz/ChronicleForge]">
     <img src="https://github-readme-stats-extended.vercel.app/api/pin/?username=inakyfdz&repo=NOMBRE_REPO_1&bg_color=0A0A0A&title_color=E8202C&text_color=F2F2F2&icon_color=E8202C&border_color=E8202C" alt="Proyecto 1">
   </a>
- <!-- 
+
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
