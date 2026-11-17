@@ -45,7 +45,7 @@
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
-
+<!--
 ### <p align="center"><b>// PROYECTOS</b></p>
 <p align="center">
   <a href="[https://github.com/inakyfdz/Ejercicio3_Ut4]">
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
-
+-->
  <p align="center"><b>// ESTADISTICAS</b></p>
 <p align="center">
   <img src="https://github-readme-stats-extended.vercel.app/api?username=inakyfdz&show_icons=true&bg_color=0A0A0A&title_color=E8202C&text_color=F2F2F2&icon_color=E8202C&ring_color=E8202C&border_color=E8202C&count_private=true" alt="Estadísticas de GitHub">
