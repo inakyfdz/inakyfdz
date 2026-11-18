@@ -64,7 +64,7 @@
   <img src="https://streak-stats.demolab.com?user=inakyfdz&background=0A0A0A&border=E8202C&stroke=E8202C&ring=E8202C&fire=E8202C&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=E8202C&sideLabels=F2F2F2&dates=A3A3A3" alt="Racha de contribuciones">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=inakyfdz&layout=compact&langs_count=8&bg_color=0A0A0A&title_color=E8202C&text_color=F2F2F2&border_color=E8202C" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=inakyfdz&layout=compact&langs_count=8&bg_color=0A0A0A&title_color=E8202C&text_color=F2F2F2&border_color=E8202C&hide=html,hack" alt="Lenguajes más usados">
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=inakyfdz&bg_color=0A0A0A&color=F2F2F2&line=E8202C&point=F2F2F2&area=true&area_color=E8202C&hide_border=true" alt="Gráfico de actividad">
